@@ -10,5 +10,5 @@ SQL, or structured query language, is an important tool for data analysts, data 
 Snowflake trial account
 
 <!-- link to repo's "SQL Pre-Work - Snowflake Trial Account Setup.pdf" file -->
-[SQL Pre-Work - Snowflake Trial Account Setup.pdf](<SQL Pre-Work - Snowflake Trial Account Setup.pdf>)
+[SQL Pre-Work - Snowflake Trial Account Setup.pdf](<SQL_Pre_Work-Snowflake_Trial_Account_Setup.pdf>)
 
